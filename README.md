@@ -1,3 +1,3 @@
 # myFirst
 My first Git Repository
-by- Somiya 
+authorS- Somiya 
